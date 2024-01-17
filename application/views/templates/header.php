@@ -42,7 +42,7 @@
 			padding-left: 10px;
 			color: white;
 		}
-h1{
+h1, h3{
 	color: white;
 }
 		#content {
